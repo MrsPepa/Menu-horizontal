@@ -22,6 +22,7 @@ li{/*bloque*/
 	/*display: inline-block;*/
 	float: left;
 	text-align: center;
+	background-color: #2e2e2a;
 }
 a{
 	/*outline: 1px solid green;*/
